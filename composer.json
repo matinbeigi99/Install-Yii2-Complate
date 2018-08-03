@@ -1,0 +1,10 @@
+{
+    "name": "mb/batchfile",
+    "description": "Install Yii By Extentions",
+	"keywords": ["yii2", "extention", "advanced", "batch"],
+    "homepage": "http://www.matinbeigi.com/",
+    "type": "project",
+    "license": "www.matinbeigi.com",
+    "minimum-stability": "dev",
+    "require": {}
+}
