@@ -4,7 +4,7 @@
     "keywords": ["yii2", "extention", "advanced", "batch"],
     "homepage": "http://www.matinbeigi.com/",
     "type": "project",
-    "license": "www.matinbeigi.com",
+    "license":  "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
